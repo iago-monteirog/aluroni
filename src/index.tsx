@@ -7,5 +7,6 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <div>Aluroni</div>
   </React.StrictMode>
 );
